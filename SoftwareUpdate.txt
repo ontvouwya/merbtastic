@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
