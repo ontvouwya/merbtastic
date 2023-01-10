@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Add YOLOv8 LibTorch C++ inference example (#7090)
