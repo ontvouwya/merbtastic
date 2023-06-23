@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
