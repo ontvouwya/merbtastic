@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
