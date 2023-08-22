@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Clean up unused imgsz (#7771)
