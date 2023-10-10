@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Improve Docs Modes tables (#8266)
