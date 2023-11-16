@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
