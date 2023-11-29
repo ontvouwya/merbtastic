@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
