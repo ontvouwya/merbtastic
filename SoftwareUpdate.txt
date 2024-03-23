@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
